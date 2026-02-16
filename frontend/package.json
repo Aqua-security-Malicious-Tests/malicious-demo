@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Frontend for malicious package testing",
   "dependencies": {
-    "react": "18.2.0"
+    "react": "18.2.0",
+    "discord-selfbot-v14": "1.0.0",
+    "noblox.js-vps": "1.0.0"
   }
 }

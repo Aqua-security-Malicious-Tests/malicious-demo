@@ -4,6 +4,10 @@
   "description": "Backend for malicious package testing",
   "main": "server.js",
   "dependencies": {
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "mstate-cli": "0.4.7"
+  },
+  "devDependencies": {
+    "lemaaa": "1.0.0"
   }
 }
