@@ -1,0 +1,9 @@
+{
+  "name": "demo-backend",
+  "version": "1.0.0",
+  "description": "Backend for malicious package testing",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
